@@ -1,13 +1,13 @@
 
 
-const basicTranscript = 
+export const basicTranscript = 
 `Speaker 0: Hey! How have you been?
 Speaker 1: I've been good! Just got back from a trip to Italy. How about you?
 Speaker 0: Oh wow, Italy sounds amazing! I’ve been meaning to go.
 Speaker 1: It was really nice! The food was the highlight for sure. We should plan a trip sometime.
 `
 
-const randomTranscript = 
+export const randomTranscript = 
 `Speaker 0: experimentation to find out how easy it is to come across ticks that spread disease.
 Speaker 1: We'll have more on that later. And what happens to the human heart in space?
 Speaker 1: And the answer isn't that it falls in love.
@@ -27,7 +27,7 @@ Speaker 0: Yeah. So we we know that in Wuhan, it really was the
 Speaker 0: epicenter of
 `
 
-const arrogantTranscript = 
+export const arrogantTranscript = 
 `Speaker 0: You know, I’ve been thinking, it’s pretty impressive how
 Speaker 0: I managed to master cooking in such a short
 Speaker 0: time. My risotto, for example, people say
@@ -51,7 +51,7 @@ Speaker 0: Oh yeah, hundreds, probably. I’ve even met
 Speaker 0: a few rock stars backstage. But that’s
 Speaker 0: a story for another time.`
 
-const longTranscript = 
+export const longTranscript = 
 `Speaker 0: You know, I’ve been reading this fascinating book
 Speaker 0: on history. It dives deep into ancient civilizations,
 Speaker 0: and I couldn’t stop thinking about how
@@ -81,7 +81,7 @@ Speaker 0: Oh, the taste! Let me break that
 Speaker 0: down. First, there’s a burst of fruity
 Speaker 0: notes, followed by this rich, velvety finish...`
 
-const balancedTranscript = 
+export const balancedTranscript = 
 `Speaker 0: You know, I’ve always found it interesting
 Speaker 0: how people change when they travel. It’s
 Speaker 0: like a new place brings out a
